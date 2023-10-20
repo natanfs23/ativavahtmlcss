@@ -1,0 +1,78 @@
+#imgadjust{
+    width: 1500px;
+    margin: auto;
+    margin-top: 5cap;
+    display: block;
+}
+body{
+    background-color: rgb(3, 207, 170);
+    text-align: center;
+    font-family: Verdana;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    margin-top: 3em;
+}
+li{
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+}
+li a{
+    padding: 5px 5px; 
+    margin:0;
+    text-decoration: none;
+    border-radius:5px;
+    background-color: azure;
+    font-weight: bold;
+}
+
+.adjustimg{
+    width: 35%;
+    height: 35%;
+    margin: auto;
+    margin-top: 2cap;
+    display: block;
+    
+}
+h1{
+    background-color: azure;
+    color: rgb(0, 0, 150);
+    padding: 10px 10px;  
+}
+#slogan{
+    font-style: italic;
+    font-size:large;
+    color: rgb(0, 0, 0);
+}
+
+.sobrenos{
+    text-align: justify;
+    font-size:medium;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+}
+.info{
+    text-align: center;
+    margin-top: 1em;
+}
+#historytitle{
+    font-size: larger;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 2em;
+    font-weight: bold;
+}
+iframe{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-top: 1cap;
+    display: block;
+}
+#product{
+    text-align: left;
+    margin-top: 7em;
+    margin-left: 200px;
+}
